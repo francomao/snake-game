@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(1, 2, 19);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo {
+    color: rgb(192, 243, 247);
+}
+
+#snake {
+    border: rgb(84, 163, 209) solid 20px;
+}
